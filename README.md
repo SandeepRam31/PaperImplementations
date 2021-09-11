@@ -7,3 +7,4 @@ List of models:
 * InceptionNet with Skip Connections
 * Resnet With DepthWise Convolutions
 * UNet
+* Squeeze and Excitation
